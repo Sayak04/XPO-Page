@@ -1,6 +1,6 @@
 import React from "react";
 import "./NavbarComp.css";
-import { Nav, NavDropdown, Button } from "react-bootstrap";
+import { Nav, NavDropdown} from "react-bootstrap";
 import { BsFillBellFill } from "react-icons/bs";
 import { AiFillDollarCircle } from "react-icons/ai";
 import {AiFillCaretDown} from "react-icons/ai";
@@ -142,9 +142,9 @@ class NavbarComp extends React.Component {
               <div className="bottom-container">
                 <p className="identity">Identifix</p>
                 <div className="button">
-                  <button class="button-18" role="button">Account</button>
+                  <div class="button-18" role="button">Account</div>
                 </div>
-                <AiFillCaretDown />
+                <AiFillCaretDown style={{cursor: "pointer"}} />
               </div>
             </div>
           </div>
