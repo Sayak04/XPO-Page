@@ -1,0 +1,47 @@
+.campaign-container {
+    margin-left: 2rem;
+    display: flex;
+}
+.circle {
+    width:2rem;
+    height:2rem;
+    background-color: rgb(68, 2, 143);
+    border-radius: 50%;
+    color: #fff;
+    text-align: center;
+}
+.circle p {
+    /* padding-top: 0.5rem;
+    padding-left:0.6rem; */
+    padding: 0.18rem;
+}
+.symbols {
+    margin-top:0.5rem;
+}
+.line {
+    margin-left: 0.85rem;
+    margin-top: 0.5rem;
+    height: 5rem;
+    width:2.5px;
+    border-right: 2px solid rgb(68, 2, 143);
+}
+.campaign-box {
+    margin-left: 2rem;
+    margin-top: 0.45rem;
+}
+.campaign-box h2 {
+    color:rgb(53, 1, 112);
+    font-size: 1.8rem;
+    font-weight: 500;
+}
+.input-box {
+    margin-top : 1rem;
+    border: 1.7px solid #c5c2c2;
+    border-radius: 2px;
+    width: 25rem;
+}
+input[type=text] {
+    font-family: 'Roboto';
+    letter-spacing: 1px;
+    padding-left: 1rem;
+}
