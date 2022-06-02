@@ -14,7 +14,7 @@ export default class Campaign2 extends Component {
             <div className="circle">
               <p>2</p>
             </div>
-            <div className="line"></div>
+            <div className="line campaign2-line"></div>
           </div>
           <div className="campaign-box">
             <h2>Select One or More Channels</h2>

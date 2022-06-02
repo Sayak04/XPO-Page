@@ -6,6 +6,7 @@ import DivThreeComponent from './Components/DivThreeComponent';
 import Footer from './Components/Footer';
 import Campaign1 from './Components/Campaign1';
 import Campaign2 from './Components/Campaign2';
+import Campaign3 from './Components/Campaign3';
 class App extends Component {
   render() {
     return(
@@ -15,6 +16,7 @@ class App extends Component {
         <DivThreeComponent />
         <Campaign1 />
         <Campaign2 />
+        <Campaign3 />
         <hr />
         <Footer />
       </>

@@ -1,0 +1,117 @@
+.campaign3-line {
+  height: 44rem;
+}
+.top-container {
+  width: 90vw;
+  height: 7.5rem;
+  display: flex;
+  border: 1px solid #e4e2e2;
+  align-items: center;
+  justify-content: flex-start;
+  background-color: #f8f8f8;
+  border-radius: 3px;
+}
+.first-container,
+.second-container,
+.third-container {
+  width: 33vw;
+  padding-left: 1.5rem;
+}
+.label-container select {
+  width: 25vw;
+  padding: 0.3rem;
+  font-family: "Noto Sans";
+  font-size: 0.8rem;
+  border: 1.7px solid #c5c2c2;
+  border-radius: 2px;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  background: transparent;
+  background-image: url("data:image/svg+xml;utf8,<svg fill='black' height='24' viewBox='0 0 24 24' width='24' xmlns='http://www.w3.org/2000/svg'><path d='M7 10l5 5 5-5z'/><path d='M0 0h24v24H0z' fill='none'/></svg>");
+  background-repeat: no-repeat;
+  background-position-x: 100%;
+  background-position-y: 5px;
+}
+
+.upper-text {
+  font-family: "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  font-weight: 600;
+  margin-bottom: 0.2rem;
+}
+
+.upper-text span {
+  color: red;
+  font-size: 0.6rem;
+}
+
+.second-middle-container {
+    margin-top: 1.5rem;
+}
+
+.flex-container-label {
+  display: flex;
+}
+.flex-container-label input {
+  width: 23rem;
+  padding: 0.3rem;
+  font-family: "Noto Sans";
+  font-size: 0.8rem;
+  border: 1.7px solid #c5c2c2;
+  border-radius: 2px;
+}
+.percentage {
+    width: 2rem;
+    border: 1.7px solid rgb(197, 194, 194);
+    border-left: 0;
+    text-align: center;
+    background-color: #c5c2c2;
+}
+
+.thrid-middle-container {
+    margin-top: 1.5rem;
+}
+
+.message-container-campaign3 {
+    margin-top: 0.2rem;
+    font-weight: 500;
+}
+
+.penultimate-container {
+    margin-top: 1.5rem;
+}
+
+.checkboxes {
+    display: flex;
+}
+.first-checkbox,
+.second-checkbox, 
+.third-checkbox {
+    display: flex;
+    align-items: center;
+}
+.first-checkbox p,
+.second-checkbox p {
+    padding: 0.5rem;
+    padding-left: 0.6rem;
+    font-family: 'Noto Sans';
+    font-size: 0.9rem;
+}
+
+.last-container {
+    margin-top: 1.5rem;
+    height: 5rem;
+}
+
+.last-label {
+    margin-left: 1.5rem;
+}
+.last-label select {
+    color:rgb(145, 207, 185);
+    width: 13rem;
+    border: 0px;
+    padding: 0.3rem;
+    font-family: "Noto Sans";
+    font-size: 0.8rem;
+    font-weight: 500;
+    background-color:#f8f8f8;
+}
