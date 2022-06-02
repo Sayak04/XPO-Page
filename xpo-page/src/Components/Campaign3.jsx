@@ -68,8 +68,7 @@ export default class Campaign3 extends Component {
                 <p className="label-container">
                   <select>
                     <option hidden selected>
-                      {" "}
-                      CTR{" "}
+                      CTR
                     </option>
                     <option value="Alpha">Alpha</option>
                     <option value="Beta">Beta</option>
@@ -92,7 +91,7 @@ export default class Campaign3 extends Component {
             </div>
 
             {/* Second Middle Container */}
-            <div className="top-container thrid-middle-container">
+            <div className="top-container third-middle-container">
               <div className="first-container">
                 <label>
                   <p className="upper-text">

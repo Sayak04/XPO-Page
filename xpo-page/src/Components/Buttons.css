@@ -1,0 +1,32 @@
+.low-buttons {
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    padding-right: 3rem;
+    overflow: hidden;
+}
+.button-21 {
+    align-items: center;
+    appearance: none;
+    background-color: rgb(68, 2, 143);
+    border-radius: 100px;
+    border-width: 0;
+    color: #FFFFFF;
+    cursor: pointer;
+    font-family: 'Noto Sans', sans-serif;
+    font-size: 0.7rem;
+    font-weight: 500;
+    height: auto;
+    line-height: 1.5;
+    padding: 6px 20px;
+    position: relative;
+    text-align: center;
+    text-decoration: none;
+}
+.next-button {
+    padding: 6px 25px;
+    margin-left: 0.5rem; 
+}
+.cancel-button {
+    background-color: rgb(194, 152, 243);
+}
