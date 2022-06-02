@@ -102,8 +102,7 @@ export default class Campaign3 extends Component {
                 <p className="label-container">
                   <select>
                     <option hidden selected>
-                      {" "}
-                      Identifix{" "}
+                      Identifix
                     </option>
                     <option value="Alpha">Alpha</option>
                     <option value="Beta">Beta</option>
