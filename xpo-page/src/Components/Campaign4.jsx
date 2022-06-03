@@ -12,7 +12,7 @@ export default class Campaign4 extends Component {
             <div className="line" style={{height: '10rem'}}></div>
           </div>
           <div className="campaign-box">
-            <h2>Campaign Name</h2>
+            <h2> Scheduling </h2>
             <div className="top-container">
               <div className="first-container">
                 <label>

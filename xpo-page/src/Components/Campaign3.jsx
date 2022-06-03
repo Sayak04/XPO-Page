@@ -40,14 +40,12 @@ export default class Campaign3 extends Component {
               <div className="second-container">
                 <label>
                   <p className="upper-text">
-                    {" "}
                     Advertiser <span>*</span>
                   </p>
                 </label>
                 <p className="label-container">
                   <select>
                     <option hidden selected>
-                      {" "}
                       Identifix
                     </option>
                     <option value="Lambda">Lambda</option>
