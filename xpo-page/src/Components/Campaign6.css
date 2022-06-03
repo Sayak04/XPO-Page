@@ -121,7 +121,7 @@
 .last-container-campaign6 {
     margin-top: 1.5rem;
   width: 90vw;
-  height: 28.5rem;
+  height: 32rem;
   border: 1px solid #e4e2e2;
   background-color: #f8f8f8;
   border-radius: 3px;
@@ -143,4 +143,11 @@
 }
 .end-text {
     font-size: 0.9rem;
+}
+.table-container {
+    margin-top: 1.5rem;
+    margin-bottom: 1.5rem;
+}
+.blue-green {
+    background-color: rgb(58, 213, 216);
 }

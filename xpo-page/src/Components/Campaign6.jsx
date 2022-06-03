@@ -2,6 +2,7 @@ import React, { Component } from "react";
 import "./Campaign6.css";
 import { ImDownload3 } from "react-icons/im";
 import Image from "./Images/india-google-map.jpg";
+import { Table } from "react-bootstrap";
 
 export default class Campaign6 extends Component {
   render() {
@@ -101,6 +102,65 @@ export default class Campaign6 extends Component {
                   </button>
                 </div>
                 <div className="end-text">Clear All</div>
+              </div>
+              <div className="table-container">
+                <Table bordered>
+                  <thead>
+                    <tr>
+                      <th></th>
+                      <th colSpan={4}>12am</th>
+                      <th colSpan={4}>4am</th>
+                      <th colSpan={4}>8am</th>
+                      <th colSpan={4}>12pm</th>
+                      <th colSpan={4}>4pm</th>
+                      <th colSpan={4}>8pm</th>
+                    </tr>
+                  </thead>
+                  <tbody>
+                    <tr>
+                      <td>Mon</td>
+                      {
+                        [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24].map(  (i) => {  return <td style={{backgroundColor:'rgb(58, 213, 216)'}}></td> } )
+                      }
+                    </tr>
+                    <tr>
+                      <td>Tue</td>
+                      {
+                        [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24].map(  (i) => {  return <td style={{backgroundColor:'rgb(58, 213, 216)'}}></td> } )
+                      }
+                    </tr>
+                    <tr>
+                      <td>Wed</td>
+                      {
+                        [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24].map(  (i) => {  return <td style={{backgroundColor:'rgb(58, 213, 216)'}}></td> } )
+                      }
+                    </tr>
+                    <tr>
+                      <td>Thu</td>
+                      {
+                        [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24].map(  (i) => {  return <td style={{backgroundColor:'rgb(58, 213, 216)'}}></td> } )
+                      }
+                    </tr>
+                    <tr>
+                      <td>Fri</td>
+                      {
+                        [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24].map(  (i) => {  return <td style={{backgroundColor:'rgb(58, 213, 216)'}}></td> } )
+                      }
+                    </tr>
+                    <tr>
+                      <td>Sat</td>
+                      {
+                        [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24].map(  (i) => {  return <td style={{backgroundColor:'rgb(58, 213, 216)'}}></td> } )
+                      }
+                    </tr>
+                    <tr>
+                      <td>Sun</td>
+                      {
+                        [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24].map(  (i) => {  return <td style={{backgroundColor:'rgb(58, 213, 216)'}}></td> } )
+                      }
+                    </tr>
+                  </tbody>
+                </Table>
               </div>
             </div>
           </div>
