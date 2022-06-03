@@ -1,0 +1,146 @@
+.campaign6-line {
+  height: 97rem;
+}
+.first-container-campaign6 {
+  width: 90vw;
+  height: 13.5rem;
+  border: 1px solid #e4e2e2;
+  background-color: #f8f8f8;
+  border-radius: 3px;
+  padding: 1.5rem;
+}
+.second-container-campaign6 {
+    margin-top: 1.5rem;
+  width: 90vw;
+  height: 48.5rem;
+  border: 1px solid #e4e2e2;
+  background-color: #f8f8f8;
+  border-radius: 3px;
+  padding: 1.5rem;
+}
+.headline {
+  font-family: "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  font-weight: 600;
+}
+.right-headline {
+  display: inline-block;
+  position: relative;
+  left: 81vw;
+  bottom: 4.5vh;
+}
+.name-remove {
+  margin: 0px 1.5rem;
+  justify-content: space-between;
+  font-family: "Noto Sans", sans-serif;
+  padding-bottom: 0.5rem;
+  border-bottom: 2px solid #e4e2e2;
+}
+.last-text {
+  margin-top: 1rem;
+  text-align: center;
+}
+.faded-campaign6 {
+  font-size: 0.9rem;
+  color: #4f4e4e;
+  font-weight: 500;
+}
+.label-campaign6 {
+    margin-left: 1rem;
+}
+.label-campaign6 select {
+  width: 7.5vw;
+  border-radius: 10rem;
+  background-color: #f4f4f4;
+}
+.second-second {
+    margin-top: 1rem;
+}
+.second-label-campaign6 select {
+    width: 77vw;
+    margin-right: 0.7rem;
+}
+.import-geo-btn {
+    width: 10vw;
+    font-family: 'Noto Sans', sans-serif;
+    font-size: 0.9rem;
+    padding: 0.2rem;
+    border-radius: 20px;
+    border: 1.5px solid #b8b6b6;
+}
+.image-container {
+    margin-top: 1.5rem;
+}
+.image-india {
+    width: 87vw;
+    height: 50vh;
+    background-position: center;
+}
+.bid-adj {
+    margin-top: 1.5rem;
+}
+.name-remove-bid-adj {
+    justify-content: space-between;
+    margin-top: 1.5rem;
+    font-family: "Noto Sans", sans-serif;
+    padding-left: 1rem;
+}
+.country-container {
+    margin-top: 1rem;
+    border-top: 2px solid #e4e2e2;
+    background-color: #f4f4f4;
+    padding: 0.5rem 1rem;
+    font-family: "Noto Sans", sans-serif;
+}
+.country-button {
+    margin-left: 0.2rem;
+    font-size: 0.7rem;
+    border-radius: 13px;
+    padding: 0.05rem 0.4rem;
+    background-color: rgb(136, 136, 4);
+    color: #fff;
+    border: 0px;
+}
+.include-exclude {
+    margin-left: 50vw;
+}
+.include {
+    background-color: rgb(68, 2, 143);
+    padding: 0.05rem 0.5rem;
+}
+.exclude {
+    background-color: #fff;
+    color: #000;
+    border: 1.5px solid #b8b6b6;
+}
+.display-container {
+    margin-top: 2.5rem;
+    font-size: 1rem;
+    letter-spacing: 0.2px;
+}
+
+.last-container-campaign6 {
+    margin-top: 1.5rem;
+  width: 90vw;
+  height: 28.5rem;
+  border: 1px solid #e4e2e2;
+  background-color: #f8f8f8;
+  border-radius: 3px;
+  padding: 1.5rem;
+}
+.middle-last {
+    margin-top: 1.5rem;
+    justify-content: space-between;
+    font-family: 'Noto Sans', sans-serif;
+    font-weight: 600;
+}
+.middle-last-btn {
+    font-family: 'Noto Sans', sans-serif;
+    font-size: 0.9rem;
+    padding: 0.2rem 1.2rem;
+    border-radius: 20px;
+    border: 1.5px solid #b8b6b6;
+    margin-right: 0.3rem;
+}
+.end-text {
+    font-size: 0.9rem;
+}
