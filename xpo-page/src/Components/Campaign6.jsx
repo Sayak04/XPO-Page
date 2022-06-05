@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-import "./Campaign6.css";
+import "./CSS/Campaign6.css";
 import { ImDownload3 } from "react-icons/im";
 import Image from "./Images/india-google-map.jpg";
 import { Table } from "react-bootstrap";

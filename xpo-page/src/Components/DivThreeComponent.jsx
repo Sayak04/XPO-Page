@@ -2,7 +2,7 @@ import React, { Component } from 'react'
 import {HiSpeakerphone} from 'react-icons/hi';
 import {AiOutlineAim} from 'react-icons/ai';
 import {BiNews} from 'react-icons/bi';
-import './DivThreeComponent.css';
+import './CSS/DivThreeComponent.css';
 
 export default class DivThreeComponent extends Component {
   render() {

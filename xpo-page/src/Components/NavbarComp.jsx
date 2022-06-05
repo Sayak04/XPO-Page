@@ -1,5 +1,5 @@
 import React from "react";
-import "./NavbarComp.css";
+import "./CSS/NavbarComp.css";
 import { Nav, NavDropdown} from "react-bootstrap";
 import { BsFillBellFill } from "react-icons/bs";
 import { AiFillDollarCircle } from "react-icons/ai";

@@ -1,6 +1,6 @@
 import React, { Component } from "react";
 import { BsInfoCircleFill } from "react-icons/bs";
-import "./Campaign7.css";
+import "./CSS/Campaign7.css";
 
 export default class Campaign7 extends Component {
   render() {

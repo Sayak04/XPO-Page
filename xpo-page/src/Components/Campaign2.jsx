@@ -1,6 +1,6 @@
 import React, { Component } from "react";
-import "./Campaign1.css";
-import "./Campaign2.css";
+import "./CSS/Campaign1.css";
+import "./CSS/Campaign2.css";
 import { TbWorldUpload } from "react-icons/tb";
 import { BsFacebook, BsLinkedin } from "react-icons/bs";
 import { FaSearch } from "react-icons/fa";

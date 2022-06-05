@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-import "./Campaign5.css";
+import "./CSS/Campaign5.css";
 import { Form } from "react-bootstrap";
 import { BsInfoCircleFill } from "react-icons/bs";
 import { FiPercent } from "react-icons/fi";

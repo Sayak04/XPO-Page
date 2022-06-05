@@ -1,5 +1,5 @@
 import React, { Component } from 'react'
-import './Campaign1.css'
+import './CSS/Campaign1.css'
 
 export default class Campaign1 extends Component {
   render() {
